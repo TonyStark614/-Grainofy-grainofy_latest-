@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "838398296055",
+    "firebase_url": "https://grainofy-2020.firebaseio.com",
+    "project_id": "grainofy-2020",
+    "storage_bucket": "grainofy-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838398296055:android:e13c1be0bb96fe774fb8f2",
+        "android_client_info": {
+          "package_name": "com.example.grainofy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838398296055-skgiosresg4prukjk8ns4koiotuemp9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grainofy",
+            "certificate_hash": "03f6b877d8f7c9e1639f57d867fc641c240ab076"
+          }
+        },
+        {
+          "client_id": "838398296055-0frrqdgs3do3rf783fe4rdnnbtt1v2ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLFlqxifezJssfM3bD-U0FQb6tbDTZas4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838398296055-0frrqdgs3do3rf783fe4rdnnbtt1v2ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
